@@ -1,2 +1,4 @@
 ## ignore all files in the books directory
 /books
+## ignore pycache directories
+**/__pycache__/*
